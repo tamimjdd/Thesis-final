@@ -48,7 +48,7 @@ You will get all the code files in the repository.
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
-    git clone https://github.com/pinga-lab/PAPER-REPO.git
+    git clone https://github.com/tamimjdd/Thesis-final.git
 
 or [download a zip archive](https://github.com/pinga-lab/PAPER-REPO/archive/master.zip).
 
