@@ -50,7 +50,7 @@ You can download a copy of all the files in this repository by cloning the
 
     git clone https://github.com/tamimjdd/Thesis-final.git
 
-or [download a zip archive](https://github.com/pinga-lab/PAPER-REPO/archive/master.zip).
+or [download a zip archive](https://github.com/tamimjdd/Thesis-final/archive/refs/heads/main.zip).
 
 A copy of the repository is also archived at 10.1109/ICCCNT51525.2021.9580151
 
